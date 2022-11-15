@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="Mphasis_Website.About_Mphasis"/>
+    </classes>
+      </test> <!-- Test -->
+    
+      <test name="Test2">
+    
+    <classes>
+      <class name="Mphasis_Website.Approach_Link"/>
+    </classes>
+      </test> <!-- Test -->
+    
+      <test name="Test3">
+    
+    <classes>
+      <class name="Mphasis_Website.Career_Link"/>
+    </classes>
+      </test> <!-- Test -->
+    
+      <test name="Test4">
+    
+    <classes>
+      <class name="Mphasis_Website.Industries_Link"/>
+    </classes>
+      </test> <!-- Test -->
+    
+      <test name="Test5">
+    
+    <classes>
+      <class name="Mphasis_Website.Innovation_Link"/>
+    </classes>
+      </test> <!-- Test -->
+    
+      <test name="Test6">
+    
+    <classes>
+      <class name="Mphasis_Website.Services_Link"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
